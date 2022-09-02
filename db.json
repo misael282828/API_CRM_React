@@ -1,0 +1,28 @@
+{
+  "Clientes": [
+    {
+      "nombre": "Actualizado ",
+      "empresa": "Dev Guzman",
+      "email": "test@test.com",
+      "telefono": "8092459693",
+      "notas": "test notas",
+      "id": 2
+    },
+    {
+      "nombre": "misael",
+      "empresa": "pollos",
+      "email": "test@test.com",
+      "telefono": "78955674",
+      "notas": "nuevo registro ",
+      "id": 4
+    },
+    {
+      "nombre": "Rafael",
+      "empresa": "locos",
+      "email": "test@test.com",
+      "telefono": "784545",
+      "notas": "",
+      "id": 11
+    }
+  ]
+}
